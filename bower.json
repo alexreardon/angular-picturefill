@@ -1,6 +1,6 @@
 {
-  "name": "angular-picturefill",
-  "description": "An AngularJS directive for Picturefill",
+  "name": "angular-picturefill-minification",
+  "description": "An AngularJS directive for Picturefill (minification fork)",
   "version": "0.1",
   "main": "angular-picturefill.js",
   "ignore": [
